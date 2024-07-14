@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This is a website I plan to blog about projects I have done in the past and are ongoing 
 
-Maybe say a some things about yourself.
+I'm an autistic Lesbian who is 21 years old and I'm really into robots.
 
-Or maybe what you plan to blog about.
+My coding experience is pretty weak I have done a year of coding in college and have started my computer science degree on September 2024
